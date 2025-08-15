@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">30DaysApp2</string>
+    <string name="titlu_logo1">Constanta</string>
+    <string name="titlu_logo2">1990 VS 2020</string>
+
+
+    <string name="casadecultura1_title">Casa de Cultura Constanta - Atunci</string>
+    <string name="casadecultura1_desc">Anii 80, tramvaiele treceau zilnic pe langa cladirea simbol a vietii culturale constantene.</string>
+    <string name="casadecultura2_title">Casa de Cultura Constanta - Acum</string>
+    <string name="casadecultura2_desc">Astazi, locul e dominat de trafic si panouri publicitare, dar cladirea ramane impunatoare.</string>
+
+
+    <string name="eforienord1_title">Plaja Eforie Nord - Atunci</string>
+    <string name="eforienord1_desc">Terasa simpla, mese colorate si prosopul direct pe nisip, o atmosfera relaxata de alta data.</string>
+    <string name="eforienord2_title">Plaja Eforie Nord - Acum</string>
+    <string name="eforienord2_desc">Plaja modernizata cu sezlonguri si umbrele perfect aliniate pentru turisti.</string>
+
+
+    <string name="garaconstanta1_title">Gara Constanta - Atunci</string>
+    <string name="garaconstanta1_desc">Reper arhitectural curat si elegant, prima oprire pentru turistii veniti la mare.</string>
+    <string name="garaconstanta2_title">Gara Constanta - Acum</string>
+    <string name="garaconstanta2_desc">Cladire modernizata partial, inconjurata de comert rapid si trafic intens.</string>
+
+
+    <string name="laculperla1_title">Lacul din Piata Perla - Atunci</string>
+    <string name="laculperla1_desc">Lebedele isi faceau loc printre turisti, intr-un cadru romantic si linistit.</string>
+    <string name="laculperla2_title">Lacul din Piata Perla - Acum</string>
+    <string name="laculperla2_desc">Spatiul s-a transformat intr-o zona arida, cu doar amintiri ale vremurilor trecute.</string>
+
+
+    <string name="magazintomis1_title">Magazinul Tomis - Atunci</string>
+    <string name="magazintomis1_desc">Inima comerciala a orasului, mereu plina de oameni si agitatie.</string>
+    <string name="magazintomis2_title">Magazinul Tomis - Acum</string>
+    <string name="magazintomis2_desc">Adaptat vremurilor, cu branduri internationale, dar mai rece ca atmosfera.</string>
+
+
+    <string name="moschee1_title">Marea Moschee - Atunci</string>
+    <string name="moschee1_desc">Priveliste istorica, neatinsa de schimbarile urbane masive.</string>
+    <string name="moschee2_title">Marea Moschee - Acum</string>
+    <string name="moschee2_desc">Restaurata si integrata in peisajul turistic modern al orasului.</string>
+
+
+    <string name="olimp1_title">Statiunea Olimp - Atunci</string>
+    <string name="olimp1_desc">Perioada de glorie a litoralului, cu hoteluri noi si plaje aglomerate.</string>
+    <string name="olimp2_title">Statiunea Olimp - Acum</string>
+    <string name="olimp2_desc">Statiunea a trecut prin renovari si schimbari, dar pastreaza farmecul marii.</string>
+
+
+    <string name="parcarheologic1_title">Parcul Arheologic - Atunci</string>
+    <string name="parcarheologic1_desc">O oaza verde, plina de istorie si liniste in mijlocul orasului.</string>
+    <string name="parcarheologic2_title">Parcul Arheologic - Acum</string>
+    <string name="parcarheologic2_desc">Spatiul pastreaza elementele istorice, dar cu un aer mai urbanizat.</string>
+
+
+    <string name="piataovidiu1_title">Piata Ovidiu - Atunci</string>
+    <string name="piataovidiu1_desc">Inima vechiului oras, loc de intalnire si comert traditional.</string>
+    <string name="piataovidiu2_title">Piata Ovidiu - Acum</string>
+    <string name="piataovidiu2_desc">Reabilitata si modernizata, devenind un spatiu vibrant pentru evenimente.</string>
+
+
+    <string name="poarta1port1_title">Poarta 1 - Atunci</string>
+    <string name="poarta1port1_desc">Acces simbolic catre port, cu atmosfera industriala autentica.</string>
+    <string name="poarta1port2_title">Poarta 1 - Acum</string>
+    <string name="poarta1port2_desc">Zona a fost modernizata, dar si-a pastrat rolul de intrare principala.</string>
+
+
+    <string name="port1_title">Portul Constanta - Atunci</string>
+    <string name="port1_desc">Vedere clasica a portului, plin de nave comerciale si pescaresti.</string>
+    <string name="port2_title">Portul Constanta - Acum</string>
+    <string name="port2_desc">Port modernizat, cu infrastructura adaptata cerintelor actuale.</string>
+
+
+    <string name="radioconstanta1_title">Radio Constanta - Atunci</string>
+    <string name="radioconstanta1_desc">Sediul postului de radio, martor al deceniilor de istorie sonora.</string>
+    <string name="radioconstanta2_title">Radio Constanta - Acum</string>
+    <string name="radioconstanta2_desc">Cladirea a trecut prin renovari, dar isi pastreaza rolul media.</string>
+
+
+    <string name="saturn1_title">Statiunea Saturn - Atunci</string>
+    <string name="saturn1_desc">Plaja populara a litoralului, animata de turisti si agitatie.</string>
+    <string name="saturn2_title">Statiunea Saturn - Acum</string>
+    <string name="saturn2_desc">Spatiu mai aerisit si modern, pregatit pentru turistii de azi.</string>
+
+
+    <string name="teatruvara1_title">Teatrul de Vara - Atunci</string>
+    <string name="teatruvara1_desc">Loc de spectacole in aer liber, plin de energie si public entuziast.</string>
+    <string name="teatruvara2_title">Teatrul de Vara - Acum</string>
+    <string name="teatruvara2_desc">Spatiul isi cauta din nou gloria prin evenimente culturale.</string>
+
+
+    <string name="tuzla1_title">Plaja Tuzla - Atunci</string>
+    <string name="tuzla1_desc">Peisaj natural, salbatic si neamenajat, iubit de localnici.</string>
+    <string name="tuzla2_title">Plaja Tuzla - Acum</string>
+    <string name="tuzla2_desc">Atractie turistica mai populara, cu zone amenajate pentru vizitatori.</string>
+
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+</resources>
